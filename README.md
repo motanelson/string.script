@@ -1,1 +1,1 @@
-compile you database .dat
+compile you database .dat .dat a binary data file
